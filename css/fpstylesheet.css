@@ -1,0 +1,44 @@
+h1 {
+  color:rebeccapurple;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-size: large;
+}
+
+h2 {
+  color:blueviolet;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: small;
+  font-style: normal;
+}
+
+h3 {
+  color:blueviolet;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: small;
+  font-style: normal;
+}
+
+h4 {
+  color:blueviolet;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: small;
+  font-style: normal;
+}
+
+p {
+  color:darkmagenta;
+  font-family: "Times New Roman", Times, serif;
+  font-size: small;
+}
+
+ul {
+  color:darkorchid;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 150%;
+  font-size: small;
+}
